@@ -28,14 +28,8 @@ Built with the power of **LLaMA3 (1B)** via **Ollama**, and orchestrated using *
 
 ## 📸 Demo
 
-![Demo Screenshot](demo_screenshot.png)  
+![Demo Recording]  
 > *Enter words like* `dream, sky, freedom` *and receive a unique AI-generated poem in seconds!*
 
 ---
 
-## 🛠️ Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/ai-poem-generator.git
-cd ai-poem-generator
